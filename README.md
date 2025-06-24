@@ -31,7 +31,7 @@ Any user can duplicate RAPIX's original code and won't be in trouble unless they
 [javascript-url]: https://www.javascript.com/
 [json-url]: https://www.json.org/
 [javascript-badge]: https://img.shields.io/badge/Javascript-fff?style=for-the-badge&logo=javascript&logoColor=white&color=yellow
-[json-bade]: https://img.shields.io/badge/JSON-fff?style=for-the-badge&logo=json&logoColor=black&color=white
+[json-badge]: https://img.shields.io/badge/JSON-fff?style=for-the-badge&logo=json&logoColor=black&color=white
 [contributors-shield]: https://img.shields.io/github/contributors/Duaxir/RAPIX.svg?style=for-the-badge
 [contributors-url]: https://github.com/Duaxir/RAPIX/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Duaxir/RAPIX.svg?style=for-the-badge
