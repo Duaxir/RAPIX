@@ -25,8 +25,8 @@ Any user can duplicate RAPIX's original code and won't be in trouble unless they
 
 ## Stack
 
-[![JavaScript][javascript-badge]][javascript-url] - Main code language.
-[![JSON][json-badge]][json-url] - Code reciever of the API.
+- [![JavaScript][javascript-badge]][javascript-url] - Main code language.
+- [![JSON][json-badge]][json-url] - Code reciever of the API.
 
 [javascript-url]: https://www.javascript.com/
 [json-url]: https://www.json.org/
